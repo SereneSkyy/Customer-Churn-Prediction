@@ -3,6 +3,7 @@
 *.xlsx
 *.xls
 *.json
+*.zip
 
 # Model files
 *.pkl
